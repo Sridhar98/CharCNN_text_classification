@@ -8,10 +8,10 @@ This was inspired by the repositories of [ahmedbesbes](https://github.com/ahmedb
 
 ![train loss](https://raw.githubusercontent.com/Sridhar98/CharCNN_text_classification/master/train_loss.png "Train Loss") ![learning rate](https://raw.githubusercontent.com/Sridhar98/CharCNN_text_classification/master/lr.png "Learning Rate")
 
-##Results obtained on the AG News Dataset using CharCNN (small):
+## Results obtained on the AG News Dataset using CharCNN (small):
 Test Accruacy: 0.8794270833333333
 Test error: 0.1205729166666667
 
-##Results on paper for CharCNN (small):
+## Results on paper for CharCNN (small):
 Test Accuracy: 0.8435
 Test error: 0.1565
