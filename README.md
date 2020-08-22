@@ -1,4 +1,4 @@
-# CharCNN_text_classification
+# CharCNN_text_classification [![CodeFactor](https://www.codefactor.io/repository/github/sridhar98/charcnn_text_classification/badge/master)](https://www.codefactor.io/repository/github/sridhar98/charcnn_text_classification/overview/master)
 PyTorch implementation of [Character-level Convolutional Networks for Text
 Classification](https://arxiv.org/abs/1509.01626) Xiang Zhang, Junbo Zhao and Yann LeCun (2015)
 
